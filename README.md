@@ -40,7 +40,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></em></a>
 </br>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rahul-VP&show_icons=true&theme=midnight-purple&hide_border=true&custom_title=Rahul%20VP's%20GitHub%20Stats&hide_title=false" height="180px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-VP&theme=midnight-purple&hide_border=true" height="180px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-VP&layout=compact&theme=midnight-purple&hide_border=true&hide=C&langs_count=6" height="180px" />  </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rahul-vp&show_icons=true&theme=midnight-purple&hide_border=true&custom_title=Rahul%20VP's%20GitHub%20Stats&hide_title=false" height="180px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-VP&theme=midnight-purple&hide_border=true" height="180px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-vp&layout=compact&theme=midnight-purple&hide_border=true&hide=C&langs_count=6" height="180px" />  </div>
 
 <div align="left">
   <h2><b>👀 Visitor Count</b></h2>
