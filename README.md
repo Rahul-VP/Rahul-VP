@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently working on **My portfolio website 💼**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **rahulvpoojari08@gmail.com**
 
