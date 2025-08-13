@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/RahulPooj2003" target="blank"><img src="https://img.shields.io/twitter/follow/RahulPooj2003?logo=twitter&style=for-the-badge" alt="RahulPooj2003"  </p>
 
-- 🔭 I’m currently studing on **MCA**
+- 🔭 I’m currently studing **MCA**
 
 - 🌱 I’m currently working on **My portfolio website 💼**
 
