@@ -3,7 +3,7 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/Rahul-VP">
-    <img src="https://readme-typing-svg.demolab.com?lines=Full-Stack%20Web;Future%20Developer%20Professional;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=22&center=true&vCenter=true&width=440&height=45&color=f75c7e&pause=1000" align="center" /></a>
+    <img src="https://readme-typing-svg.demolab.com?lines=Full-Stack%20Developer;Future%20Developer%20Professional;3%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=22&center=true&vCenter=true&width=440&height=45&color=f75c7e&pause=1000" align="center" /></a>
 </p>
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://Rahul-VP.io)
