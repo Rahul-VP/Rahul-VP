@@ -18,9 +18,9 @@
 
 - 🔭 I’m currently studing **MCA**
 
-- 🌱 I’m currently working on **My portfolio website 💼**
+- 🌱 I’m currently working on **My portfolio website 💼** -- https://vprahul.vercel.app
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN & AI/ML**
 
 - 📫 How to reach me **rahulvpoojari08@gmail.com**
 
